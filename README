@@ -1,0 +1,5 @@
+this is only a simple sizeof-example
+
+compile:
+g++ -o test main.cpp
+./test
